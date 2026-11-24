@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="194" viewBox="0 0 720 194" role="img" aria-labelledby="title desc">
+<title id="title">C# Practice Lab</title><desc id="desc">Small applications. Stronger foundations.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#101b2c"/><stop offset="1" stop-color="#3b2e24"/></linearGradient></defs>
+<rect width="720" height="194" rx="18" fill="url(#bg)"/><rect y="35" width="4" height="124" rx="2" fill="#f0c78c"/>
+<text x="38" y="45" fill="#f0c78c" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2">04 / C# / CONSOLE APPLICATIONS / OOP</text>
+<text x="36" y="108" fill="#f1f5fb" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-1">C# Practice Lab</text>
+<text x="39" y="148" fill="#a7b7ca" font-family="Segoe UI, Arial, sans-serif" font-size="16">Small applications. Stronger foundations.</text>
+<path d="M705 35v124" stroke="#f1f5fb" stroke-opacity=".07"/>
+<rect x="788" y="42" width="254" height="116" rx="12" fill="#211e22" stroke="#f0c78c" stroke-opacity=".4"/>
+<g font-family="Consolas, monospace" font-size="16"><text x="807" y="74" fill="#f0c78c">public class <tspan fill="#e4ddda">Developer</tspan></text><text x="807" y="99" fill="#7a7272">{</text><text x="825" y="124" fill="#d7c8b7">Practice(); <tspan fill="#9a9b86">// repeat</tspan></text><text x="807" y="146" fill="#7a7272">}</text></g>
+<text x="1158" y="54" text-anchor="end" fill="#f0c78c" fill-opacity=".75" font-family="Segoe UI, Arial, sans-serif" font-size="23">↗</text>
+</svg>

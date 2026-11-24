@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Mohammad Khasawneh — Software Developer</title>
+<desc id="desc">Based in Jordan. Building web applications with .NET, React, and Laravel.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111f32"/><stop offset="1" stop-color="#080f1d"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#277b7e" stop-opacity=".3"/><stop offset="1" stop-color="#277b7e" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge"><stop stop-color="#70efc3"/><stop offset="1" stop-color="#7a9cff"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#c1d5e7" stroke-opacity=".04"/></pattern>
+<clipPath id="frame"><rect width="1200" height="350" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="350" rx="24" fill="url(#bg)"/><rect width="1200" height="350" rx="24" fill="url(#grid)"/>
+<ellipse cx="1060" cy="130" rx="400" ry="300" fill="url(#glow)"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<rect x="54" y="46" width="7" height="7" rx="3.5" fill="#70efc3"/>
+<text x="73" y="54" font-size="12" font-weight="600" letter-spacing="2.4" fill="#9cb1c9">SOFTWARE DEVELOPER / JORDAN</text>
+<text x="52" y="127" font-size="58" font-weight="700" letter-spacing="-1.8" fill="#f3f7fc">Mohammad</text>
+<text x="52" y="190" font-size="58" font-weight="700" letter-spacing="-1.8" fill="#f3f7fc">Khasawneh<tspan fill="#70efc3">.</tspan></text>
+<text x="56" y="230" font-size="18" fill="#aabbd1">From business logic to thoughtful interfaces.</text>
+<g font-size="13" font-weight="600" text-anchor="middle">
+<rect x="56" y="265" width="76" height="32" rx="16" fill="#70efc3" fill-opacity=".12" stroke="#70efc3" stroke-opacity=".25"/><text x="94" y="286" fill="#9cf5d6">.NET</text>
+<rect x="142" y="265" width="80" height="32" rx="16" fill="#7a9cff" fill-opacity=".12" stroke="#7a9cff" stroke-opacity=".25"/><text x="182" y="286" fill="#b0c5ff">React</text>
+<rect x="232" y="265" width="90" height="32" rx="16" fill="#a99bff" fill-opacity=".12" stroke="#a99bff" stroke-opacity=".25"/><text x="277" y="286" fill="#cfc6ff">Laravel</text>
+</g></g>
+<g transform="translate(721 65)">
+<path d="M-34 29v-25h25M397 223v25h-25" stroke="#70efc3" stroke-opacity=".45" fill="none" stroke-width="2"/>
+<rect width="397" height="221" rx="14" fill="#0c1525" stroke="#304458"/><path d="M1 37h395" stroke="#243449"/>
+<circle cx="19" cy="19" r="4" fill="#fa8c97"/><circle cx="34" cy="19" r="4" fill="#e3c27d"/><circle cx="49" cy="19" r="4" fill="#70efc3"/>
+<text x="373" y="23" font-family="Consolas, monospace" font-size="10" text-anchor="end" fill="#607a98">developer.js</text>
+<g font-family="Consolas, monospace" font-size="15">
+<text x="23" y="78" fill="#a99bff">const <tspan fill="#d8e3f1">developer = {</tspan></text>
+<text x="40" y="108" fill="#8fa8c7">name: <tspan fill="#70efc3">'Mohammad'</tspan><tspan fill="#d8e3f1">,</tspan></text>
+<text x="40" y="138" fill="#8fa8c7">focus: <tspan fill="#70efc3">'useful software'</tspan><tspan fill="#d8e3f1">,</tspan></text>
+<text x="40" y="168" fill="#8fa8c7">mindset: <tspan fill="#70efc3">'keep learning'</tspan></text>
+<text x="23" y="196" fill="#d8e3f1">};</text>
+</g>
+<rect x="280" y="199" width="135" height="37" rx="9" fill="#18382f" stroke="#70efc3" stroke-opacity=".45"/>
+<path d="m295 218 5 5 9-11" stroke="#70efc3" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="318" y="223" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#b4f5dc">Always building</text>
+</g><path d="M56 332h1088" stroke="url(#edge)" stroke-opacity=".25"/></g>
+</svg>

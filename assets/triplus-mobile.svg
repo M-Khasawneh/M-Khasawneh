@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="194" viewBox="0 0 720 194" role="img" aria-labelledby="title desc">
+<title id="title">Triplus</title><desc id="desc">Discover places. Plan the next journey.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#101b2c"/><stop offset="1" stop-color="#1d2c50"/></linearGradient></defs>
+<rect width="720" height="194" rx="18" fill="url(#bg)"/><rect y="35" width="4" height="124" rx="2" fill="#9dbaff"/>
+<text x="38" y="45" fill="#9dbaff" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2">02 / GRADUATION PROJECT / TRAVEL &amp; BOOKING</text>
+<text x="36" y="108" fill="#f1f5fb" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-1">Triplus</text>
+<text x="39" y="148" fill="#a7b7ca" font-family="Segoe UI, Arial, sans-serif" font-size="16">Discover places. Plan the next journey.</text>
+<path d="M705 35v124" stroke="#f1f5fb" stroke-opacity=".07"/>
+<path d="M780 124c35 38 78-73 121-50s63 48 104 8" stroke="#9dbaff" stroke-opacity=".6" stroke-width="2" stroke-dasharray="5 7" fill="none"/>
+<circle cx="779" cy="124" r="8" fill="#9dbaff"/><circle cx="779" cy="124" r="17" stroke="#9dbaff" stroke-opacity=".2" fill="none"/>
+<path d="M1014 48c-18 0-31 14-31 30 0 23 31 49 31 49s31-26 31-49c0-16-13-30-31-30z" fill="#172440" stroke="#9dbaff" stroke-width="2"/><circle cx="1014" cy="78" r="10" stroke="#9dbaff" stroke-width="2" fill="none"/>
+<path d="m894 54 18 9-17 6 3 18-9-4-6-15-14-7 3-8 16 5 7-18 8 4z" fill="#c7d6ff" transform="rotate(12 890 65)"/>
+<text x="1158" y="54" text-anchor="end" fill="#9dbaff" fill-opacity=".75" font-family="Segoe UI, Arial, sans-serif" font-size="23">↗</text>
+</svg>
