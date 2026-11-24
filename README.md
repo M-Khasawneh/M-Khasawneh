@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/header-mobile.svg" />
-    <img src="assets/header.svg" width="100%" alt="Mohammad Khasawneh — Software Developer | .NET, React & Laravel | Jordan" />
+    <img src="assets/header.svg" width="100%" alt="Mohammad Khasawneh — Software Developer | .NET & React | Jordan" />
   </picture>
 </p>
 
@@ -14,7 +14,7 @@
 
 <br />
 
-I'm **Mohammad Khasawneh**, a software developer based in **Jordan**. I build web applications with **.NET, React, and Laravel**, connecting business logic, databases, and clear user interfaces.
+I'm **Mohammad Khasawneh**, a software developer based in **Jordan**. I build web applications with **.NET and React**, connecting business logic, databases, and clear user interfaces.
 
 <br />
 
@@ -61,7 +61,7 @@ Built with .NET 10, ASP.NET Core Identity, Razor Views, Bootstrap, JavaScript, H
 
 My graduation project: a tourism booking platform for discovering destinations, booking travel packages, and managing offers through customer, company, and admin interfaces.
 
-`React` &nbsp; `Laravel` &nbsp; `Inertia.js` &nbsp; `Tailwind CSS` &nbsp; `MySQL`
+`React` &nbsp; `Inertia.js` &nbsp; `Tailwind CSS`
 
 **[Explore the code ↗](https://github.com/M-Khasawneh/Graduation-Project)**
 
@@ -72,7 +72,7 @@ My graduation project: a tourism booking platform for discovering destinations, 
 - Bookings and cancellations, favorites, and reviews.
 - Dedicated dashboards for tourism companies and administrators.
 
-Additional technologies: PHP, JavaScript, Blade, and Vite.
+Additional technologies: JavaScript, Blade, and Vite.
 
 </details>
 
@@ -125,7 +125,7 @@ A collection of console applications for strengthening C# fundamentals, problem 
 ## Toolbox
 
 <p align="center">
-  <img src="assets/tech-stack.svg" width="360" alt="C#, .NET, React, JavaScript, PHP, Laravel, HTML, CSS, Tailwind CSS, Bootstrap, MySQL, and Git" />
+  <img src="assets/tech-stack.svg" width="480" alt="C#, .NET, React, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, and Git" />
 </p>
 
 <p align="center">
@@ -137,10 +137,10 @@ A collection of console applications for strengthening C# fundamentals, problem 
 
 | Area | Technologies |
 | --- | --- |
-| Languages | C#, JavaScript, PHP, HTML, CSS, T-SQL |
-| Backend | .NET, ASP.NET Core MVC, EF Core, ASP.NET Core Identity, Laravel |
+| Languages | C#, JavaScript, HTML, CSS, T-SQL |
+| Backend | .NET, ASP.NET Core MVC, EF Core, ASP.NET Core Identity |
 | Frontend | React, Inertia.js, Tailwind CSS, Bootstrap |
-| Databases | Microsoft SQL Server, MySQL |
+| Databases | Microsoft SQL Server |
 | Templates & scripting | Razor Views, Blade, PowerShell |
 | Tools | Git, GitHub, Vite |
 
