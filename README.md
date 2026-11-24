@@ -21,6 +21,38 @@ I'm **Mohammad Khasawneh**, a software developer based in **Jordan**. I build we
 ## Projects
 
 <h3>
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/mirhal-mobile.svg" />
+    <img src="assets/mirhal.svg" width="100%" alt="Mirhal (مرحال) — Car Rental Marketplace | In Progress" />
+  </picture>
+</h3>
+
+**In progress** · Currently building
+
+**Mirhal (مرحال)** is a car rental marketplace in development, designed to connect rental companies and customers through vehicle search, price comparison, and online reservations.
+
+`.NET 10` &nbsp; `ASP.NET Core MVC` &nbsp; `EF Core` &nbsp; `SQL Server`
+
+<details>
+<summary>Project scope & vision</summary>
+
+The platform is being developed around three connected experiences:
+
+- **Customers:** browse available cars, compare prices, and reserve a vehicle with an online deposit.
+- **Rental companies:** manage their vehicles, pricing, and reservations in one place.
+- **Administration:** verify company documents, manage users, and oversee platform operations through a central dashboard.
+
+**Business model:** a commission on completed rentals.
+
+**Vision:** create a trusted, secure hub that makes car rental simple and transparent for customers, while helping rental companies manage their operations digitally and reach more people.
+
+**Technologies:** ASP.NET Core MVC (.NET 10), Entity Framework Core, SQL Server, ASP.NET Core Identity, Razor Views, HTML, CSS, and JavaScript.
+
+</details>
+
+<br />
+
+<h3>
   <a href="https://github.com/M-Khasawneh/STMS">
     <picture>
       <source media="(max-width: 600px)" srcset="assets/stms-mobile.svg" />
