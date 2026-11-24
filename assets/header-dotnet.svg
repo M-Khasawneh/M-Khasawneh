@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
 <title id="title">Mohammad Khasawneh — Software Developer</title>
-<desc id="desc">Based in Jordan. Building web applications with .NET and React.</desc>
+<desc id="desc">Based in Jordan. Building web applications with .NET, React, and EF Core.</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111f32"/><stop offset="1" stop-color="#080f1d"/></linearGradient>
 <radialGradient id="glow"><stop stop-color="#277b7e" stop-opacity=".3"/><stop offset="1" stop-color="#277b7e" stop-opacity="0"/></radialGradient>
@@ -20,6 +20,7 @@
 <g font-size="13" font-weight="600" text-anchor="middle">
 <rect x="56" y="265" width="76" height="32" rx="16" fill="#70efc3" fill-opacity=".12" stroke="#70efc3" stroke-opacity=".25"/><text x="94" y="286" fill="#9cf5d6">.NET</text>
 <rect x="142" y="265" width="80" height="32" rx="16" fill="#7a9cff" fill-opacity=".12" stroke="#7a9cff" stroke-opacity=".25"/><text x="182" y="286" fill="#b0c5ff">React</text>
+<rect x="232" y="265" width="90" height="32" rx="16" fill="#a99bff" fill-opacity=".12" stroke="#a99bff" stroke-opacity=".25"/><text x="277" y="286" fill="#cfc6ff">EF Core</text>
 </g></g>
 <g transform="translate(721 65)">
 <path d="M-34 29v-25h25M397 223v25h-25" stroke="#70efc3" stroke-opacity=".45" fill="none" stroke-width="2"/>

@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/header-mobile.svg" />
-    <img src="assets/header.svg" width="100%" alt="Mohammad Khasawneh — Software Developer | .NET & React | Jordan" />
+    <source media="(max-width: 600px)" srcset="assets/header-dotnet-mobile.svg" />
+    <img src="assets/header-dotnet.svg" width="100%" alt="Mohammad Khasawneh — Software Developer | .NET, React & EF Core | Jordan" />
   </picture>
 </p>
 
@@ -14,7 +14,7 @@
 
 <br />
 
-I'm **Mohammad Khasawneh**, a software developer based in **Jordan**. I build web applications with **.NET and React**, connecting business logic, databases, and clear user interfaces.
+I'm **Mohammad Khasawneh**, a software developer based in **Jordan**. I build web applications with **.NET and React**, using **EF Core** for data access and connecting business logic, databases, and clear user interfaces.
 
 <br />
 
@@ -125,7 +125,7 @@ A collection of console applications for strengthening C# fundamentals, problem 
 ## Toolbox
 
 <p align="center">
-  <img src="assets/tech-stack.svg" width="480" alt="C#, .NET, React, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, and Git" />
+  <img src="assets/tech-stack-dotnet.svg" width="300" alt="C#, .NET, Entity Framework Core, React, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, and Git" />
 </p>
 
 <p align="center">
