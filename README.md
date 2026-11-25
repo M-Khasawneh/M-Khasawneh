@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/header-dotnet-mobile.svg" />
-    <img src="assets/header-dotnet.svg" width="100%" alt="Mohammad Khasawneh — Software Developer | .NET, React & EF Core | Jordan" />
+    <img src="assets/hero.svg" width="100%" alt="Mohammad Khasawneh — Software Developer | .NET, React & EF Core | Jordan" />
   </picture>
 </p>
 
