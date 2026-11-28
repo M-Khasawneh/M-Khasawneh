@@ -14,43 +14,11 @@
 
 <br />
 
-I'm **Mohammad Khasawneh**, a software developer based in **Jordan**. I build web applications with **.NET and React**, using **EF Core** for data access and connecting business logic, databases, and clear user interfaces.
+I'm **Mohammad Khasawneh**, a junior full-stack developer based in **Jordan**. My projects include a procurement platform built with **ASP.NET Core MVC** and a tourism booking platform built with **Laravel and React**.
 
 <br />
 
 ## Projects
-
-<h3>
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/mirhal-mobile.svg" />
-    <img src="assets/mirhal.svg" width="100%" alt="Mirhal (مرحال) — Car Rental Marketplace | In Progress" />
-  </picture>
-</h3>
-
-**In progress** · Currently building
-
-**Mirhal (مرحال)** is a car rental marketplace in development, designed to connect rental companies and customers through vehicle search, price comparison, and online reservations.
-
-`.NET 10` &nbsp; `ASP.NET Core MVC` &nbsp; `EF Core` &nbsp; `SQL Server`
-
-<details>
-<summary>Project scope & vision</summary>
-
-The platform is being developed around three connected experiences:
-
-- **Customers:** browse available cars, compare prices, and reserve a vehicle with an online deposit.
-- **Rental companies:** manage their vehicles, pricing, and reservations in one place.
-- **Administration:** verify company documents, manage users, and oversee platform operations through a central dashboard.
-
-**Business model:** a commission on completed rentals.
-
-**Vision:** create a trusted, secure hub that makes car rental simple and transparent for customers, while helping rental companies manage their operations digitally and reach more people.
-
-**Technologies:** ASP.NET Core MVC (.NET 10), Entity Framework Core, SQL Server, ASP.NET Core Identity, Razor Views, HTML, CSS, and JavaScript.
-
-</details>
-
-<br />
 
 <h3>
   <a href="https://github.com/M-Khasawneh/STMS">
@@ -61,7 +29,7 @@ The platform is being developed around three connected experiences:
   </a>
 </h3>
 
-A procurement platform that brings purchase requests, supplier bids, evaluations, and award decisions into one role-based workflow.
+A procurement platform that connects purchase approvals, tender creation, supplier bids, and award decisions across seven user roles.
 
 `C#` &nbsp; `ASP.NET Core MVC` &nbsp; `EF Core` &nbsp; `SQL Server`
 
@@ -93,7 +61,7 @@ Built with .NET 10, ASP.NET Core Identity, Razor Views, Bootstrap, JavaScript, H
 
 My graduation project: a tourism booking platform for discovering destinations, booking travel packages, and managing offers through customer, company, and admin interfaces.
 
-`React` &nbsp; `Inertia.js` &nbsp; `Tailwind CSS`
+`Laravel` &nbsp; `React` &nbsp; `Inertia.js` &nbsp; `MySQL`
 
 **[Explore the code ↗](https://github.com/M-Khasawneh/Graduation-Project)**
 
@@ -104,7 +72,7 @@ My graduation project: a tourism booking platform for discovering destinations, 
 - Bookings and cancellations, favorites, and reviews.
 - Dedicated dashboards for tourism companies and administrators.
 
-Additional technologies: JavaScript, Blade, and Vite.
+Additional technologies: Tailwind CSS, JavaScript, Blade, and Vite.
 
 </details>
 
@@ -154,14 +122,42 @@ A collection of console applications for strengthening C# fundamentals, problem 
 
 <br />
 
+## In progress
+
+<h3>
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/mirhal-mobile.svg" />
+    <img src="assets/mirhal.svg" width="100%" alt="Mirhal (مرحال) — Car Rental Marketplace | In Progress" />
+  </picture>
+</h3>
+
+**Mirhal (مرحال)** is a car rental marketplace in development, designed to connect rental companies and customers through vehicle search, price comparison, and online reservations.
+
+`.NET 10` &nbsp; `ASP.NET Core MVC` &nbsp; `EF Core` &nbsp; `SQL Server`
+
+<details>
+<summary>Project scope & vision</summary>
+
+The platform is being developed around three connected experiences:
+
+- **Customers:** browse available cars, compare prices, and reserve a vehicle with an online deposit.
+- **Rental companies:** manage their vehicles, pricing, and reservations in one place.
+- **Administration:** verify company documents, manage users, and oversee platform operations through a central dashboard.
+
+**Business model:** a commission on completed rentals.
+
+**Vision:** create a trusted, secure hub that makes car rental simple and transparent for customers, while helping rental companies manage their operations digitally and reach more people.
+
+**Technologies:** ASP.NET Core MVC (.NET 10), Entity Framework Core, SQL Server, ASP.NET Core Identity, Razor Views, HTML, CSS, and JavaScript.
+
+</details>
+
+<br />
+
 ## Toolbox
 
 <p align="center">
   <img src="assets/tech-stack-dotnet.svg" width="300" alt="C#, .NET, Entity Framework Core, React, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, and Git" />
-</p>
-
-<p align="center">
-  <strong>Backend logic. Frontend detail. Everything in between.</strong>
 </p>
 
 <details>
@@ -169,10 +165,10 @@ A collection of console applications for strengthening C# fundamentals, problem 
 
 | Area | Technologies |
 | --- | --- |
-| Languages | C#, JavaScript, HTML, CSS, T-SQL |
-| Backend | .NET, ASP.NET Core MVC, EF Core, ASP.NET Core Identity |
+| Languages | C#, PHP, JavaScript, HTML, CSS, T-SQL |
+| Backend | .NET, ASP.NET Core MVC, EF Core, LINQ, ASP.NET Core Identity, Laravel |
 | Frontend | React, Inertia.js, Tailwind CSS, Bootstrap |
-| Databases | Microsoft SQL Server |
+| Databases | Microsoft SQL Server, MySQL |
 | Templates & scripting | Razor Views, Blade, PowerShell |
 | Tools | Git, GitHub, Vite |
 
